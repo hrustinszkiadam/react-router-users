@@ -1,0 +1,9 @@
+#users-table {
+	width: 100vw;
+}
+
+@media (min-width: 768px) {
+	#users-table {
+		width: 768px;
+	}
+}
